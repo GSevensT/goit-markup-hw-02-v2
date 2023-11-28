@@ -85,7 +85,7 @@ h2 {
 
 .navigation .link {
   text-decoration: none;
-  color: var(--main-color);
+  color: #ffffff;
 }
 
 .navigation .link:focus,
