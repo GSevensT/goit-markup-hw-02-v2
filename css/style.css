@@ -45,7 +45,7 @@ h2 {
   color: #4d5ae5;
 }
 
-.logo:link {
+.logo-link {
   text-decoration: none;
 }
 
@@ -55,6 +55,7 @@ h2 {
 
 .logo-span {
   color: #4d5ae5;
+  text-decoration-color: #2e2f42 ;
 }
 
 .logo-studio-white {
