@@ -106,8 +106,9 @@ h2 {
 
 .contacts-header .contact:hover,
 .contacts-header .contact:focus {
-  color: var(--brand-color);
+  color: #404bbf;
 }
+
 
 /* Link Styles */
 .link:focus {
