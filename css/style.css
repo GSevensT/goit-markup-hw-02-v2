@@ -197,7 +197,7 @@ button:focus {
 .exemple-buttons button:hover,
 .exemple-buttons button:focus,
 .exemple-buttons button:active {
-  color: var(--white-color);
+  color: #ffffff;
   background-color: var(--brand-color);
 }
 
