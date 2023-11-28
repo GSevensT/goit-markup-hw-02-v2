@@ -66,6 +66,11 @@ h2 {
   color: var(--black-color);
 }
 
+ul{
+  list-style: none;
+  
+}
+
 /* Title Styles */
 .title {
   font-weight: 700;
