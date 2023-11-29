@@ -33,10 +33,15 @@
 .navbar .pages {
   color: var(--navcolor);
   text-decoration: none;
-  font-weight: 500;
-  font-size: 15px;
-  line-height: 1.15;
-  letter-spacing: 0.05em;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5 ;
+}
+
+.navbar:link{
+  text-decoration: none;
 }
 
 .lists{
