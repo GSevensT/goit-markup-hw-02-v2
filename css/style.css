@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@800&family=Roboto:ital,wght@0,400;0,500;0,900;1,700&display=swap"); 
 
 :root {
+  --logo-font: "Raleway", sans-serif;
+  --main-font: "Roboto", sans-serif;
   --iriscolor: #4D5AE5;
   --navyblue: #2E2F42;
   --navcolor: #000000;
@@ -36,7 +38,7 @@
 }
 
 
-.navbar .pages {
+.navbar .link {
   color: var(--navcolor);
   text-decoration: none;
   font-weight: 800;
