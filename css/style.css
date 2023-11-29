@@ -1,17 +1,17 @@
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@800&family=Roboto:ital,wght@0,400;0,500;0,900;1,700&display=swap"); 
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@800&family=Roboto:ital,wght@0,400;0,500;0,900;1,700&display=swap");
 
 :root {
   --logo-font: "Raleway", sans-serif;
   --main-font: "Roboto", sans-serif;
-  --iriscolor: #4D5AE5;
-  --navyblue: #2E2F42;
+  --iriscolor: #4d5ae5;
+  --navyblue: #2e2f42;
   --navcolor: #000000;
-  --oceancolor: #404BBF;
+  --oceancolor: #404bbf;
   --whitecolor: #ffffff;
   --slatecolor: #434455;
 }
 
-.link-logo{
+.link-logo {
   text-decoration: none;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -21,22 +21,19 @@
   color: #4d5ae5;
 }
 
-
-.web-logo{
+.web-logo {
   color: var(--iriscolor);
   font-weight: 500;
   text-transform: uppercase;
 }
 
-.studio-logo{
+.studio-logo {
   color: var(--navyblue);
-  text-transform: uppercase;
 }
 
-.studio-logo2{
+.studio-logo2 {
   color: var(--whitecolor);
 }
-
 
 .navbar .link {
   color: var(--navcolor);
@@ -45,22 +42,22 @@
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #4d5ae5 ;
+  color: #4d5ae5;
 }
 
-.navbar:link{
+.navbar:link {
   text-decoration: none;
 }
 
-.lists{
+.lists {
   list-style-type: none;
 }
 
 .navbar .pages:hover,
-.navbar .pages:focus, 
+.navbar .pages:focus,
 .navbar .pages.currentoption,
 .contact-info .info:hover,
-.contact-info .info:focus{
+.contact-info .info:focus {
   color: var(--oceancolor);
 }
 
@@ -77,7 +74,7 @@
   background-color: var(--navyblue);
 }
 
-.title{
+.title {
   color: var(--whitecolor);
   font-size: 56px;
   font-weight: 800;
@@ -100,21 +97,20 @@
   border-radius: 4px;
   cursor: pointer;
   color: var(--whitecolor);
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
 }
 
-
-.button.primary{
+.button.primary {
   background-color: var(--iriscolor);
   color: var(--whitecolor);
 }
 
 .button.primary:hover,
-.button.primary:focus{
-  background-color: #404BBF;
+.button.primary:focus {
+  background-color: #404bbf;
 }
 
-.titlelist{
+.titlelist {
   font-size: 20px;
   font-weight: 500;
   font-size: 20px;
@@ -124,7 +120,7 @@
   list-style: none;
 }
 
-.description{
+.description {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -166,12 +162,12 @@
   background: var(--navyblue);
 }
 
-.lastparagraph{
+.lastparagraph {
   color: var(--whitecolor);
   width: 265px;
   height: 70px;
 }
 
-.section4{
-  background-color: #F4F4FD;
+.section4 {
+  background-color: #f4f4fd;
 }
