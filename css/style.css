@@ -71,7 +71,7 @@
   letter-spacing: 0.05em;
 }
 
-.bg-section1 {
+.bg-sectionone {
   background-color: var(--navyblue);
 }
 
@@ -137,17 +137,6 @@
 
 .sectiontitle {
   text-align: center;
-  color: var(--navyblue);
-  font-size: 36px;
-  line-height: 1.11;
-  text-transform: capitalize;
-  color: #2e2f42;
-  list-style: none;
-  letter-spacing: 0.02em;
-}
-
-.sectiontitle1{
-    text-align: center;
   color: var(--navyblue);
   font-size: 36px;
   line-height: 1.11;
