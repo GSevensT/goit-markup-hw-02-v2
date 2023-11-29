@@ -50,7 +50,7 @@
   text-decoration: none;
 }
 
-.lists{
+.list{
   list-style-type: none;
 }
 
@@ -71,7 +71,7 @@
   letter-spacing: 0.05em;
 }
 
-.bgsectionone {
+.bg-section1 {
   background-color: var(--navyblue);
 }
 
