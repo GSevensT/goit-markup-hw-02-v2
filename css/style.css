@@ -19,6 +19,8 @@
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #4d5ae5;
+  text-transform: uppercase;
+  text-decoration: none;
 }
 
 .web-logo {
@@ -81,8 +83,6 @@
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-  text-transform: uppercase;
-  text-decoration: none;
 }
 
 .button {
