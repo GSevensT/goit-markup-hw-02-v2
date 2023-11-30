@@ -27,6 +27,7 @@
   color: var(--iriscolor);
   font-weight: 500;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .studio-logo {
