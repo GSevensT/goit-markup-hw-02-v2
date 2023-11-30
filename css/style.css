@@ -2,7 +2,7 @@
 
 :root {
   --logo-font: "Raleway", sans-serif;
-  /*--main-font: "Roboto", sans-serif;*/
+  --main-font: "Roboto", sans-serif;
   --iriscolor: #4d5ae5;
   --navyblue: #2e2f42;
   --navcolor: #000000;
@@ -123,6 +123,10 @@
   list-style: none;
 }
 
+.titlelist {
+  font-weight: 500;
+}
+
 .description {
   font-size: 16px;
   line-height: 1.5;
@@ -130,11 +134,11 @@
   color: #434455;
 }
 
-/*.description.titlelist{
+.description.titlelist {
   font-weight: 800;
   font-size: 14px;
   line-height: 1.5;
-} */
+}
 
 .sectiontitle {
   text-align: center;
